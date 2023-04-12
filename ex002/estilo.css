@@ -17,6 +17,9 @@ section {
     margin: auto;
     box-shadow: 3px 3px 8px rgba(0, 0, 0, 0.322);
 }
+div#res {
+    padding: 5px;
+}
 
 footer {
     color: white;
