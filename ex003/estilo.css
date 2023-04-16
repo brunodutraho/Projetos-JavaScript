@@ -1,7 +1,6 @@
 body {
     background: aquamarine;
     font: normal 15pt Arial;
-    text-align: center;
 }
 
 header {
@@ -16,6 +15,15 @@ section {
     width: 500px;
     margin: auto;
     box-shadow: 3px 3px 8px rgba(0, 0, 0, 0.322);
+}
+
+div#res {
+    text-align: center;
+    padding: 10px;
+    background: rgba(117, 121, 111, 0.274);
+}
+p#bt {
+    padding-left: 10px;
 }
 
 footer {
